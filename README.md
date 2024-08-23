@@ -1,2 +1,2 @@
 # DMenu-Data
-i am using II'sStupid menu template! IiDk on top!
+i am using II's Stupid menu template! IiDk on top!
