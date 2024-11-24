@@ -1,12 +1,11 @@
 {
-    "name": "SteamRip",
+    "name": "Davukss Hydra Software",
     "downloads": [
       {
         "title": "Gorilla Tag",
-        "uploadDate": "2024-10-29T22:51:16+00:00",
-        "fileSize": "1,2 GB",
-        "uris": [
-          "https://gofile.io/d/DxbAZ3"
-        ]
-      },
-}
+        "uris": ["https://gofile.io/d/DxbAZ3"],
+        "uploadDate": "2024-09-16T23:00:00.000Z",
+        "fileSize": "1,2 GB"
+      }
+    ]
+  }
